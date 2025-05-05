@@ -1,4 +1,7 @@
 .env
+
 Medical_RAG_Application.png
-**/.ipynb_checkpoints/
+
+.ipynb_checkpoints
+
 __pycache__/
