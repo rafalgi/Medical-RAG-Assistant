@@ -1,3 +1,3 @@
 # Medical-RAG-Assistant
 
-![Medical RAG](Medical_RAG_Application.png)
+![Medical RAG](\images\Medical_RAG_Application.png)
