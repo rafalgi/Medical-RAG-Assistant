@@ -1,2 +1,4 @@
 .env
 Medical_RAG_Application.png
+.gitignore
+.ipynb_checkpoints
