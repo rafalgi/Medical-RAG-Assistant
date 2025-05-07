@@ -1,12 +1,31 @@
-streamlit
-langchain_ollama
-langchain_huggingface
-langchain_core
-langchain_community
-langchain_text_splitters
-beautifulsoup4
-faiss-cpu
-re
-bs4
-typing
-huggingface_hub
+# LangChain components
+langchain-huggingface>=0.0.2
+langchain-ollama>=0.0.1
+langchain-google-genai>=0.0.3
+langchain-core>=0.1.0
+langchain-text-splitters>=0.0.1
+langchain-community>=0.0.10
+
+# LangGraph (for orchestrating workflow)
+langgraph>=0.0.20
+
+# Image processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+tensorflow>=2.15.0
+
+# API clients and utilities
+tavily-python>=0.2.0
+python-dotenv>=1.0.0
+
+# Data structures and validation
+pydantic>=2.0.0
+
+# Vector storage
+faiss-cpu>=1.7.4
+
+# Web scraping
+beautifulsoup4>=4.12.0
+
+# Display utilities
+ipython>=8.0.0
